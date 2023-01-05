@@ -14,5 +14,5 @@ Plans for the construction of a pyrolysis plant as part of the project "CO2-Bust
 ## System structure
 
 <p align="center">
-<img src="images/system-structure.png" alt="image source: https://www.tu.berlin/mpm/forschung/projekte/murmel" width="800"/>
+<img src="images/system-structure.png" alt="image source: https://www.tu.berlin/mpm/forschung/projekte/murmel" width="1000"/>
 </p>
